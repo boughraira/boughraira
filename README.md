@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on Angular **EDF**
 
-- 🌱 I’m currently learning React Native **React Native**
-
 - 👨‍💻 All of my projects are available at [https://boughraira.github.io/](https://boughraira.github.io/)
 
-- 💬 Ask me about JS **react js,angular,node js**
+- 💬 Ask me about JS **React js,Angular,Node js and React Native**
 
 - 📫 How to reach me **boughrairahazem8@gmail.com**
 
