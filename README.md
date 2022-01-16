@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boughraira" alt="boughraira" /></a> </p>
 
-- 🔭 I’m currently working on Angular **EDF**
+- 🔭 I’m currently working on React **SUPPERNOVA**
 
 - 👨‍💻 All of my projects are available at [https://boughraira.github.io/](https://boughraira.github.io/)
 
